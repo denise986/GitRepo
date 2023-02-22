@@ -4,4 +4,5 @@
 3. Clone repo “GitRepo” in “Git-Action”
 4. Check if it really exists (( if you can list README and git package # 
 mkdir Git-Action
-git clone 
+git clone https://github.com/denise986/GitRepo.git
+
